@@ -1,4 +1,4 @@
-# 🔮 Crypto Time Series Forecasting (BTC & ETH) using FEDformer
+# Crypto Time Series Forecasting (BTC & ETH) using FEDformer
 
 Цей репозиторій містить реалізацію прогнозування часових рядів
 на основі архітектури **FEDformer** для двох криптовалют:
